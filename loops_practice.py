@@ -11,5 +11,5 @@ class Practice:
                 break
             print(n)
 
-object_for_practice = Practice()
-object_for_practice.list_numbers()
+object_for_pract1 = Practice()
+object_for_pract1.list_numbers()
